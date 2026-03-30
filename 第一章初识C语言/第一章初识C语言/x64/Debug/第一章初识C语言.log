@@ -1,0 +1,4 @@
+﻿  复习题.c
+C:\Users\12868\source\repos\第一章初识C语言\第一章初识C语言\复习题.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\12868\source\repos\第一章初识C语言\x64\Debug\第一章初识C语言.exe : fatal error LNK1120: 1 个无法解析的外部命令
